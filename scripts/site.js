@@ -1,4 +1,4 @@
-//demo video
+//demo video practice
 
 class LoanApplication {
   Id = create_UUID();
